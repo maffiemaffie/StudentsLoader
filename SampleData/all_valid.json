@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "Maya",
+    "lastName": "Rodriguez",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Ethan",
+    "lastName": "Brooks",
+    "age": 18,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Sofia",
+    "lastName": "Martinez",
+    "age": 21,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Chen",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Ava",
+    "lastName": "Thompson",
+    "age": 22,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Patel",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Nguyen",
+    "age": 18,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Williams",
+    "age": 21,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Grace",
+    "lastName": "Anderson",
+    "age": 22,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Kim",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Harrison",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Julian",
+    "lastName": "Rivera",
+    "age": 24,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Nora",
+    "lastName": "Foster",
+    "age": 18,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Caleb",
+    "lastName": "Murphy",
+    "age": 21,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Hannah",
+    "lastName": "Scott",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Isaac",
+    "lastName": "Morgan",
+    "age": 23,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Leah",
+    "lastName": "Bennett",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Owen",
+    "lastName": "Davis",
+    "age": 22,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Priya",
+    "lastName": "Shah",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Lawson",
+    "age": 19,
+    "academicYear": "Sophomore"
+  }
+]

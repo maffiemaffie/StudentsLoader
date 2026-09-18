@@ -1,0 +1,122 @@
+[
+  {
+    "firstName": "James",
+    "lastName": "Wilson",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "",
+    "lastName": "Carter",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Mitchell",
+    "age": 22,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Benjamin",
+    "lastName": "Anderson",
+    "age": 101,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Turner",
+    "age": 18,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Rodriguez",
+    "age": 21,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Williams",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "O'Connor",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Amelia",
+    "lastName": "Johnson",
+    "age": 22,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Brown",
+    "age": 17,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Harper",
+    "lastName": "Thompson",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Davis",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Evelyn",
+    "lastName": "Martinez",
+    "age": 21,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Robinson",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Hernandez",
+    "age": 23,
+    "academicYear": "Graduate"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Lee",
+    "age": 19,
+    "academicYear": "Sophomore"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Clark",
+    "age": -1,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Lewis",
+    "age": 21,
+    "academicYear": "Senior"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Walker",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Jonathan",
+    "lastName": "Taylor",
+    "age": 22,
+    "academicYear": "Graduate"
+  }
+]

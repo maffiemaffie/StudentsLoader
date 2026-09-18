@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "Samantha",
+    "lastName": "Reed",
+    "age": 20,
+    "academicYear": "Junior"
+  },
+  {
+    "firstName": "Andrew",
+    "lastName": "Collins",
+    "age": 19,
+    "academicYear": "Sophomore",
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Adams",
+    "age": 21,
+    "academicYear": "Senior"
+  }
+  {
+    "firstName": "Thomas",
+    "lastName": "Baker",
+    "age": 18,
+    "academicYear": "Freshman"
+  },
+  {
+    "firstName": "Nicole",
+    "lastName": "Fisher",
+    "age": 22,
+    "academicYear": "Graduate"
+  }
+]
